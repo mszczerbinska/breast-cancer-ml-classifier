@@ -1,6 +1,6 @@
 # Breast cancer machine learning classifier 🩺💻
 
-[![Open in Streamlit](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://TUTAJ-WKLEJ-SWOJ-LINK.streamlit.app/)
+[![Open in Streamlit](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://breast-cancer-ml-classifier-mzyzgtde5r3fcurqv6rw9s.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)
