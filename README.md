@@ -1,5 +1,7 @@
 # Breast cancer machine learning classifier 🩺💻
 
+[![Open in Streamlit](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://TUTAJ-WKLEJ-SWOJ-LINK.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
