@@ -37,6 +37,12 @@ st.divider()
 
 # 5. UI Layout - Sidebar for inputs
 st.sidebar.header("Input Clinical Parameters")
+st.sidebar.info(
+    "💡 **Where do these values come from?**\n"
+    "These features are computed by specialized medical software from a "
+    "digitized image of a Fine Needle Aspirate (FNA) biopsy. In reality, "
+    "a pathologist or lab system would provide this data."
+)
 st.sidebar.write("Adjust the sliders to set the cell properties.")
 
 input_data = {}
